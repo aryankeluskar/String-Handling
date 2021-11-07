@@ -1,10 +1,4 @@
-
-
-# Log file
-*.log
-
-# BlueJ files
-*.ctxt
-
 *.class
-
+*.ctxt
+doc/
+package.bluej
