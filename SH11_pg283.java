@@ -34,6 +34,11 @@ class SH11_pg283
                 
             } 
         }
-        System.out.println(s1);
+        System.out.println("The new word:" +s1);
+        char []arr = s1.toCharArray();
+        Arrays.sort(arr);
+        System.out.println("Arranged in alphabetical order: "+String.valueOf(arr));
+        
+        
     } 
 } 
